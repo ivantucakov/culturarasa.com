@@ -1,2 +1,3 @@
 books/Cultura_Rasa_Ivan_Tucakov.pdf filter=lfs diff=lfs merge=lfs -text
+books/Forces[[:space:]]of[[:space:]]Society[[:space:]]-[[:space:]]Ivan[[:space:]]Tucakov.pdf filter=lfs diff=lfs merge=lfs -text
 books/*.pdf filter=lfs diff=lfs merge=lfs -text
